@@ -1,10 +1,9 @@
 Domoticz - The easy way
-
 If you are running Debian-based flavours of Linux on your Pi, like Raspbian and Ubuntu, installing Domoticz is easy. Just open a terminal window and execute this command.
+
 
 sudo curl -L install.domoticz.com | sudo bash
 
-Congratulations, you're done!
 
 Just point your browser to the IP address of your Raspberry Pi, and use port 8080. From your Pi's browser you could surf to http://127.0.0.1:8080.
 
